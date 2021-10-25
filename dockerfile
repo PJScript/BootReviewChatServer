@@ -8,6 +8,6 @@ RUN npm run build
 
 WORKDIR /usr
 
-CMD ["npm", "run", "start:dev"]
+CMD ["npm", "run", "start"]
 # EXPOSE 8888
 
